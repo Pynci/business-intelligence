@@ -4,20 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Aggiornato .gitignore e rimossi file inutili">
-      <change beforePath="$PROJECT_DIR$/.idea/business-intelligence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/business-intelligence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Aggiunti file del vecchio e-learning">
+      <change afterPath="$PROJECT_DIR$/Jupyter_markdown_cheetsheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/BISF_Lezione 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/BISF_Lezione 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/Pandas_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/Pandas_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/aapl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/aapl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/msft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/msft.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/sp500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/sp500.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Pandas_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Pandas_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Rendimenti_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Rendimenti_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Serie_finanziarie_Scarico_Grafici.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Serie_finanziarie_Scarico_Grafici.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Serie_temporali.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Serie_temporali.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Statistiche.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Statistiche.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/aapl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/aapl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/msft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/msft.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/msft_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/msft_2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/sp500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/sp500.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pynci&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pynci/business-intelligence.git&quot;,
+    &quot;accountId&quot;: &quot;1161350a-9f72-4d02-9f47-b76b4644a1ed&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -27,19 +62,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Documents/PycharmProjects/business-intelligence&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Documents\PycharmProjects\business-intelligence\appunti\pandasW3S" />
+      <recent name="G:\Documents\PycharmProjects\business-intelligence\lezioni" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,6 +103,10 @@
       <workItem from="1712701383257" duration="342000" />
       <workItem from="1712737004459" duration="136000" />
       <workItem from="1712737154746" duration="586000" />
+      <workItem from="1712738063336" duration="1068000" />
+      <workItem from="1712739151784" duration="26000" />
+      <workItem from="1712739185643" duration="3820000" />
+      <workItem from="1712743055153" duration="1279000" />
     </task>
     <task id="LOCAL-00001" summary="Primo commit">
       <option name="closed" value="true" />
@@ -93,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712481688433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aggiunti file del vecchio e-learning">
+      <option name="closed" value="true" />
+      <created>1712738176523</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712738176524</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +159,7 @@
     <MESSAGE value="Aggiunti file bin" />
     <MESSAGE value="Aggiornato .gitignore" />
     <MESSAGE value="Aggiornato .gitignore e rimossi file inutili" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiornato .gitignore e rimossi file inutili" />
+    <MESSAGE value="Aggiunti file del vecchio e-learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunti file del vecchio e-learning" />
   </component>
 </project>
