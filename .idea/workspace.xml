@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;">
-      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data_toBeCleaned.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/correlation_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data.json" afterDir="false" />
+    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Completato il tutorial Pandas di W3School">
       <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +90,7 @@
       <workItem from="1712739185643" duration="3820000" />
       <workItem from="1712743055153" duration="1525000" />
       <workItem from="1712759347268" duration="716000" />
-      <workItem from="1712760080239" duration="5460000" />
+      <workItem from="1712760080239" duration="5766000" />
     </task>
     <task id="LOCAL-00001" summary="Primo commit">
       <option name="closed" value="true" />
@@ -145,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712745832036</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completato il tutorial Pandas di W3School">
+      <option name="closed" value="true" />
+      <created>1712766031986</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712766031986</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +161,7 @@
     <MESSAGE value="Aggiornato .gitignore e rimossi file inutili" />
     <MESSAGE value="Aggiunti file del vecchio e-learning" />
     <MESSAGE value="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;" />
+    <MESSAGE value="Completato il tutorial Pandas di W3School" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completato il tutorial Pandas di W3School" />
   </component>
 </project>
