@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Aggiunti file del vecchio e-learning">
-      <change afterPath="$PROJECT_DIR$/Jupyter_markdown_cheetsheet.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" afterDir="false" />
+    <list default="true" id="ace02d50-6acc-4aa9-b1f1-3436e91dca69" name="Changes" comment="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;">
+      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data_toBeCleaned.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/BISF_Lezione 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/BISF_Lezione 1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/Pandas_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/Pandas_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/Pandas_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/aapl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/aapl.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/msft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/msft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_1_20240404/sp500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_1_20240404/sp500.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Pandas_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Pandas_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Rendimenti_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Rendimenti_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Serie_finanziarie_Scarico_Grafici.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Serie_finanziarie_Scarico_Grafici.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Serie_temporali.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Serie_temporali.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/Statistiche.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/Statistiche.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/aapl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/aapl.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/msft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/msft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/msft_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/msft_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lezione_2_20240408/sp500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lezioni/Lezione_2_20240408/sp500.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/correlation_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/appunti/pandasW3S/pandas.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Documents\PycharmProjects\business-intelligence\appunti\pandasW3S\data" />
       <recent name="G:\Documents\PycharmProjects\business-intelligence\appunti\pandasW3S" />
       <recent name="G:\Documents\PycharmProjects\business-intelligence\lezioni" />
     </key>
@@ -106,7 +93,9 @@
       <workItem from="1712738063336" duration="1068000" />
       <workItem from="1712739151784" duration="26000" />
       <workItem from="1712739185643" duration="3820000" />
-      <workItem from="1712743055153" duration="1279000" />
+      <workItem from="1712743055153" duration="1525000" />
+      <workItem from="1712759347268" duration="716000" />
+      <workItem from="1712760080239" duration="5460000" />
     </task>
     <task id="LOCAL-00001" summary="Primo commit">
       <option name="closed" value="true" />
@@ -148,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712738176524</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;">
+      <option name="closed" value="true" />
+      <created>1712745832036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712745832036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +157,7 @@
     <MESSAGE value="Aggiornato .gitignore" />
     <MESSAGE value="Aggiornato .gitignore e rimossi file inutili" />
     <MESSAGE value="Aggiunti file del vecchio e-learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiunti file del vecchio e-learning" />
+    <MESSAGE value="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Svolti i primi punti del tutorial pandas di W3School, fino a metà di &quot;Pandas Analyzing Data&quot;" />
   </component>
 </project>
